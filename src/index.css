@@ -1,0 +1,40 @@
+.card {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+   
+}
+.card1 {
+    min-width: 250px;
+    height: 350px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+.card-image {
+    min-width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.card-content {
+    font-size: 1em;
+    color: #666;
+}
+.app-title {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+}
